@@ -1,0 +1,82 @@
+[
+    {
+        "tab":"Baby's growth",
+        "details":[
+            {
+                "title":"Taking a Newborn Outdoors",
+                "url":"https://momwilike.com/blogs/0-1month/taking-a-newborn-outdoors"
+            },
+            {
+                "title":"How to Hold a Newborn",
+                "url":"https://momwilike.com/blogs/0-1month/how-to-hold-a-newborn"
+            },
+            {
+                "title":"Newborn Bowel Movements",
+                "url":"https://momwilike.com/blogs/0-1month/newborn-bowel-movements"
+            },
+           {
+                "title":"Baby's First Smile",
+                "url":"https://momwilike.com/blogs/0-1month/babys-first-smile"
+            },
+          {
+                "title":"Reflex Behaviors in Newborns",
+                "url":"https://momwilike.com/blogs/0-1month/reflex-behaviors-in-newborns"
+            },
+          {
+                "title":"Infantile Colic",
+                "url":"https://momwilike.com/blogs/0-1month/infantile-colic"
+            },
+            {
+                "title":"Development of Personality Traits in Postpartum Babies",
+                "url":"https://momwilike.com/blogs/0-1month/developmental-characteristics-of-newborn-babies-movements-in-the-postpartum-month"
+            },
+            {
+                "title":"Developmental Characteristics of Newborn Babies' Movements in the Postpartum Month",
+                "url":"https://momwilike.com/blogs/0-1month/developmental-characteristics-of-newborn-babies-movements-in-the-postpartum-month"
+            },
+           {
+                "title":"Auditory Development of Newborn Babies during the Postpartum Month",
+                "url":"https://momwilike.com/blogs/0-1month/auditory-development-of-newborn-babies-during-the-postpartum-month"
+            },
+          {
+                "title":"Development of Olfactory and Tactile Senses in Newborn Babies during the Postpartum Month",
+                "url":"https://momwilike.com/blogs/0-1month/development-of-olfactory-and-tactile-senses-in-newborn-babies-during-the-postpartum-month"
+            },
+          {
+                "title":"Newborn's Basic Growth Status",
+                "url":"https://momwilike.com/blogs/0-1month/newborns-basic-growth-status"
+            }
+        ]
+    },
+    {
+        "tab":"Nursing and Feeding",
+        "details":[
+            {
+                "title":"Newborn Bowel Movements",
+                "url":"https://momwilike.com/blogs/0-1-month-nursing-and-feeding/newborn-bowel-movements"
+            }
+        ]
+    },
+    {
+        "tab":"Emotional and Social",
+        "details":[
+            {
+                "title":"Guide for Grandparents of Newborns",
+                "url":"https://momwilike.com/blogs/0-1month-baby-emotional-and-social/guide-for-grandparents-of-newborns"
+            }
+        ]
+    },
+    {
+        "tab":"Safty",
+        "details":[
+            {
+                "title":"Bathing Safety for Newborns",
+                "url":"https://momwilike.com/blogs/0-1month-baby-safety/bathing-safety-for-newborns"
+            },
+            {
+                "title":"Preventing Baby Falls During the Postpartum Period",
+                "url":"https://momwilike.com/blogs/0-1month-baby-safety/preventing-baby-falls-during-the-postpartum-period"
+            }
+        ]
+    }
+]
