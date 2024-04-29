@@ -1,0 +1,56 @@
+[{
+	"index":1,
+	"age":"Confinement baby",
+	"ageName":"newborn",
+	"boyStature":"46.1-53.7cm",
+	"boyWeight":"2.5-4.4kg",
+	"GirlStature":"45.4-52.9cm",
+	"GirlWeight":"2.4-4.2kg",
+	"feature":"The newborn baby doesn't look very good-looking, with wrinkled face and little fists clenched tightly. Although he looks weak, the baby actually has amazing visual and hearing abilities.",
+	"words":"Neonatal jaundice, neonatal gas, neonatal feeding"	
+},
+{
+	"index":2,
+	"age":"1-3 month old baby",
+	"ageName":"3 month old baby",
+	"boyStature":"57.3-65.5cm",
+	"boyWeight":"5.0-8.0kg",
+	"GirlStature":"55.6-64.0cm",
+	"GirlWeight":"4.5-7.5kg",
+	"feature":"The baby's field of vision has expanded and his eyesight has also been greatly improved. He can see objects as small as 8 mm. The baby's fingers are also more flexible and the grasping ability is better. The baby may prefer a certain toy and may calm down when hearing music.",
+	"words":"Baby spitting up milk, baby being passively manipulated, baby eczema, diaper rash"	
+},
+{
+	"index":3,
+	"age":"4-7 month old baby",
+	"ageName":"6 month old baby",
+	"boyStature":"63.3-71.9cm",
+	"boyWeight":"6.4-9.8kg",
+	"GirlStature":"61.2-70.3cm",
+	"GirlWeight":"5.7-9.3kg",
+	"feature":"The baby begins to have obvious memory and can distinguish between relatives and strangers well. Some babies have started teething or are preparing to teeth. The baby may be restless, irritable, and may drool excessively. The baby begins to show more emotions, giggles with joy, and turns away when he hears his name.",
+	"words":"Weaning period, night crying, turning over practice, recognition of life, calcium supplementation, prevention of anemia"	
+},
+{
+	"index":4,
+	"age":"8-12month old baby",
+	"ageName":"9 month old baby",
+	"boyStature":"67.5-76.5cm",
+	"boyWeight":"7.1-11.0kg",
+	"GirlStature":"65.3-75.0cm",
+	"GirlWeight":"6.5-10.5kg",
+	"feature":"The baby can move his body easily, his hands and feet are more coordinated, he can sit firmly independently, he slowly learns to crawl on the bed, and he can stand for a while while holding on to things. In terms of language, he began to imitate simple pronunciation and was able to pronounce single sounds such as \"mom, dad, milk\" more clearly.",
+	"words":"Adding complementary food, crawling and standing training, and imitation"	
+},
+{
+	"index":5,
+	"age":"1 year old baby",
+	"ageName":"12month old baby",
+	"boyStature":"71.0-80.5cm",
+	"boyWeight":"7.7-12.0kg",
+	"GirlStature":"68.9-79.2cm",
+	"GirlWeight":"7.0-11.5kg",
+	"feature":"The baby's mobility is very strong, and he has gradually learned to crawl and stand, and may even be able to take two wobbly steps. The baby begins to have independent thoughts and wishes, and will also show more emotions. The baby begins its first social activities. They will be very happy when they see children who are about the same age as themselves, holding hands and touching their faces.",
+	"words":""	
+}
+]
