@@ -1,0 +1,42 @@
+[
+    {
+        "tab":"Baby's growth",
+        "details":[
+            {
+                "title":"Growth of 4-7 Month-Old Babies",
+                "url":"https://momwilike.com/blogs/4-7-month-babys-growth/growth-of-4-7-month-old-babies"
+            }
+        ]
+    },
+    {
+        "tab":"Nursing and Feeding",
+        "details":[
+            {
+                "title":"Diet and Nutrition for Babies 4-7 Months Old",
+                "url":"https://momwilike.com/blogs/4-7month-nursing-and-feeding/diet-and-nutrition-for-babies-4-7-months-old"
+            }
+        ]
+    },
+    {
+        "tab":"Emotional and Social",
+        "details":[
+            {
+                "title":"Emotional and Social Development of Infants: 4-7 Months",
+                "url":"https://momwilike.com/blogs/4-7month-baby-emotional-and-social/emotional-and-social-development-of-infants-4-7-months"
+            }
+        ]
+    },
+    {
+        "tab":"Safty",
+        "details":[
+            {
+                "title":"Preventing Baby Falls from 4 to 7 Months",
+                "url":"https://momwilike.com/blogs/4-7-month-baby-safety/preventing-baby-falls-from-4-to-7-months"
+            },
+            {
+                "title":"Preventing Drowning from 4 to 7 Months",
+                "url":"https://momwilike.com/blogs/4-7-month-baby-safety/preventing-drowning-from-4-to-7-months"
+            }
+        ]
+    }
+]
