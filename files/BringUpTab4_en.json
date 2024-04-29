@@ -1,0 +1,46 @@
+[
+    {
+        "tab":"Baby's growth",
+        "details":[
+            {
+                "title":"Basic Growth Patterns of 8-12-Month-Old Babies",
+                "url":"https://momwilike.com/blogs/8-12-month-babys-growth/basic-growth-patterns-of-8-12-month-old-babies"
+            }
+        ]
+    },
+    {
+        "tab":"Nursing and Feeding",
+        "details":[
+            {
+                "title":"Diet and Nutrition for Babies 8-12 Months Old",
+                "url":"https://momwilike.com/blogs/8-12month-nursing-and-feeding/diet-and-nutrition-for-babies-8-12-months-old"
+            }
+        ]
+    },
+    {
+        "tab":"Emotional and Social",
+        "details":[
+            {
+                "title":"Emotional and Social Development of 1-Year-Old Babies",
+                "url":"https://momwilike.com/blogs/8-12month-baby-emotional-and-social/emotional-and-social-development-of-1-year-old-babies"
+            },
+		    {
+                "title":"Emotional and Social Development of Infants: 8-12 Months",
+                "url":"https://momwilike.com/blogs/8-12month-baby-emotional-and-social/emotional-and-social-development-of-infants-8-12-months"
+            }
+        ]
+    },
+    {
+        "tab":"Safty",
+        "details":[
+            {
+                "title":"Preventing Drowning for 1-Year-Olds",
+                "url":"https://momwilike.com/blogs/8-12month-baby-safety/preventing-drowning-for-1-year-olds"
+            },
+            {
+                "title":"Preventing Falls for Babies 8-12 Months",
+                "url":"https://momwilike.com/blogs/8-12month-baby-safety/preventing-falls-for-babies-8-12-months"
+            }
+        ]
+    }
+]
